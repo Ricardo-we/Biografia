@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    
+}
+
+.titulo_bio{
+    color: cadetblue;
+    text-align: justify;
+    width: 30%;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.parrafo1{
+    float: right;
+    width: 50%;
+    text-align: justify;
+    padding: 20px;
+    margin: 10px;
+    background-color: coral;
+    font-family: fantasy;
+    color: darkred;
+    height: 20%;
+    
+}
+.parrafo2{
+    float: left;
+    width: 50%;
+    text-align: justify;
+    padding: 20px;
+    margin: 10px;
+    background-color: darkblue;
+    color: darkred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 20%;
+}
+h2{
+    padding-bottom: 10px;
+    font-size: 40px;
+
+}
